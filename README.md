@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Samuel Standcumbe
-- 👀 I’m interested in
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me
+- 👀 I’m interested in Coding.
+- 🌱 I’m currently learning how APIs work and how to make requests to a server
+- 📫 How to reach me: sstandcumbe@gmail.com
 - 😄 Pronouns:
 - ⚡ Fun fact:
 
